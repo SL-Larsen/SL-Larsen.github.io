@@ -1,4 +1,12 @@
 "SciAdv":
   url: https://www.science.org/journal/sciadv
-  color: --global-theme-color
+  # color: --global-theme-color
 
+"medRxiv":
+  url: https://www.medrxiv.org/
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+
+"RSPB":
+  url: https://royalsocietypublishing.org/journal/rspb
