@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://www.sophielarsen.me/#'>they / them</a><br><a href="mailto:sll4@illinois.edu">sll4 (at) illinois (dot) edu</a>
 
