@@ -1,4 +1,4 @@
 "SciAdv":
   url: https://www.science.org/journal/sciadv
-  color: "#493843"
+  color: --global-theme-color
 
