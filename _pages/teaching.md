@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: teaching assistant, grader, and other teaching-related work
 nav: true
 nav_order: 2
