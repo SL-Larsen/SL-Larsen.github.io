@@ -10,7 +10,7 @@ email: slarsen@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal portfolio site for Dr. Sophie Larsen.
 footer_text: >
-  <br>This website was designed by my partner, Omar Ibrahim. You can see more of his work <a href="https://www.omaryibrahim.me/" target="_blank">here</a>.<br>
+  <br>This website was designed by my husband, Omar Ibrahim. You can see more of his work <a href="https://www.omaryibrahim.me/" target="_blank">here</a>.<br>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, academic-website, portfolio-website  # add your own keywords or leave empty
