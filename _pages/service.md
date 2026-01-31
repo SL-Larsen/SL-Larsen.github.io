@@ -1,64 +1,51 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww15740\viewh16760\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 ---\
-layout: page\
-permalink: /service/\
-title: Service\
-description: Service to institution and community\
-nav: true\
-nav_order: 3\
----\
-\
-<h3 class="mt-4">University of California, Berkeley</h3>\
-\
-<div class="card mt-3">\
-  <div class="p-3">\
-    <div class="row">\
-      <div class="col-sm-10">\
-        <h5 class="font-weight-bold">Campus Advisory Committee on the LGBTQ+ Communities at Cal</h5>\
-      </div>\
-    </div>\
-    <h6 class="font-italic mt-2 mt-sm-0">Postdoctoral Appointee, Dec. 2025 - present</h6>\
-    <ul>\
-    <li>Member of the Health and Wellness subcommittee, helping to develop policy recommendations in response to student and employee needs.</li>\
-    <li>This is a standing committee for the UC Berkeley senior administration, advising on concerns of lesbian, gay, bisexual, transgender, intersex, and queer UC Berkeley employees and students. </li>\
-    </ul>\
-  </div>\
-</div>\
-\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 <h3 class="mt-4">University of California, Berkeley</h3>\
-\
-<div class="card mt-3">\
-  <div class="p-3">\
-    <div class="row">\
-      <div class="col-sm-10">\
-        <h5 class="font-weight-bold">Campus Advisory Committee on the LGBTQ+ Communities at Cal</h5>\
-      </div>\
-    </div>\
-    <h6 class="font-italic mt-2 mt-sm-0">Postdoctoral Appointee, Dec. 2025 - present</h6>\
-    <ul>\
-    <li>Member of the Health and Wellness subcommittee, helping to develop policy recommendations in response to student and employee needs.</li>\
-    <li>This is a standing committee for the UC Berkeley senior administration, advising on concerns of lesbian, gay, bisexual, transgender, intersex, and queer UC Berkeley employees and students. </li>\
-    </ul>\
-  </div>\
-</div>\
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-\cf0 <h3 class="mt-4">The Ayah Project</h3>\
-\
-<div class="card mt-3">\
-  <div class="p-3">\
-    <div class="row">\
-      <div class="col-sm-10">\
-        <h5 class="font-weight-bold">Education Department</h5>\
-      </div>\
+layout: page
+permalink: /service/
+title: Service
+description: Service to institution and community
+nav: true
+nav_order: 3
+
+<h3 class="mt-4">University of California, Berkeley</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Campus Advisory Committee on the LGBTQ+ Communities at Cal</h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0\">Postdoctoral Appointee, Dec. 2025 - present</h6>
+    <ul>
+    <li>Member of the Health and Wellness subcommittee, helping to develop policy recommendations in response to student and employee needs.</li>
+    <li>This is a standing committee for the UC Berkeley senior administration, advising on concerns of lesbian, gay, bisexual, transgender, intersex, and queer UC Berkeley employees and students. </li>
+    </ul>
+  </div>
+</div>
+
+ <h3 class="mt-4">University of California, Berkeley</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Campus Advisory Committee on the LGBTQ+ Communities at Cal</h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0\">Postdoctoral Appointee, Dec. 2025 - present</h6>
+    <ul>
+    <li>Member of the Health and Wellness subcommittee, helping to develop policy recommendations in response to student and employee needs.</li>
+    <li>This is a standing committee for the UC Berkeley senior administration, advising on concerns of lesbian, gay, bisexual, transgender, intersex, and queer UC Berkeley employees and students. </li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Education Department</h5>
+      </div>
     </div>\
     <h6 class="font-italic mt-2 mt-sm-0\'94>Research Volunteer, October 2025 - present</h6>\
     <ul>\
