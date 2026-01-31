@@ -30,7 +30,7 @@ As a quantitative biologist with extensive training in ecology, mathematics, and
 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
 4. Every student deserves to be treated with dignity and respect.
 
-Outside of academia, you can find me writing music, reading Norwegian literature, and obsessing over tea. 
+Outside of academia, you can find me writing music, reading Norwegian literature, and collecting teapots. 
 
 
 
