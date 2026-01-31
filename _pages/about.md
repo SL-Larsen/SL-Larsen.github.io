@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://www.sophielarsen.me/#'>he / him</a><br><a href="mailto:slarsen@berkeley.edu">slarsen (at) berkeley (dot) edu</a>
+subtitle: he / him<br><a href="mailto:slarsen@berkeley.edu">slarsen (at) berkeley (dot) edu</a>
 
 profile:
   align: right
