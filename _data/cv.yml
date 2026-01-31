@@ -1,97 +1,158 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+cv:
+  name: Soren L. Larsen
+  label: Postdoctoral Scholar
+  email: slarsen@berkeley.edu
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  sections:
+    Education:
+      - institution: University of Illinois at Urbana Champaign
+        location: IL, USA
+        url: https://illinois.edu/
+        area: Ecology, Evolution, and Conservation Biology
+        studyType: Doctor of Philosophy
+        start_date: Jan. 2021
+        end_date: May 2025
+        highlights:
+          - Advised by Pamela P. Martinez (School of Molecular and Cellular Biology, Department of Statistics)
+          - "Dissertation title: Host heterogeneity and respiratory disease dynamics: from structural inequity to immune history."
+      
+      - institution: University of Illinois at Urbana Champaign
+        location: IL, USA
+        url: https://illinois.edu/
+        area: Mathematics
+        studyType: Master of Science
+        start_date: Jan. 2021
+        end_date: May 2022
+        highlights:
+          - Advised by Pamela P. Martinez
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+      - institution: University of Washington
+        location: Seattle, WA, USA
+        url: https://www.washington.edu/
+        area: Mathematics
+        studyType: Bachelor of Science
+        start_date: Sep. 2016
+        end_date: Jun. 2020
+        highlights:
+          - Magna Cum Laude. 
+          - Minors in Norwegian and the Comparative History of Ideas.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      - institution: Santa Fe Institute
+        location: Vienna, Austria
+        studyType: Complexity-GAINS International Summer School
+        start_date: July 2022
+        highlights:
+          - "In-person and remote participation in a two week, NSF-funded workshop on disintegration of societies: quantitative modeling of complex socio-behavioral systems." 
+          - Co-organized by the Santa-Fe Institute.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    Additional Research Experience:
+      - company: Department of Demography, University of California, Berkeley
+        position: Postdoctoral Scholar
+        start_date: May 2025
+        end_date: Present
+        summary: Advised by Ayesha S. Mahmud.
+        
+      - company: COVID-19 Scenario Modeling Hub
+        position: Research Collaboration
+        start_date: May 2024
+        end_date: Present
+        highlights:
+          - "Round 19: Calibrated model to historical COVID-19 data and contributed projections for 2025-26."
+          - "Heterogeneity research round: Mentored by Cecile Viboud (Fogarty International Center, NIH). Calibrated model and contributed projections for a Scenario Modeling Hub research round led by Samantha Bents (Stanford) on demographic heterogeneity in COVID-19 transmission and severity."
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      - company: Sandia National Labs
+        position: MARTIANS Student Intern
+        start_date: May 2023
+        end_date: Aug. 2023
+        summary: Worked with the epidemiology group led by Patrick Finley, exploring outcomes from socioeconomically-explicit vs. -agnostic models of SARS-CoV-2 transmission.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    Peer-Reviewed Publications:
+      - (* indicates corresponding)
+      - title: "Reimagining the serocatalytic model for infectious diseases: a case study of common coronaviruses"
+        authors:
+          - Larsen, S. L.*
+          - Yang, J.
+          - Lv, H.
+          - Huan, Y. W.
+          - Teo, Q.
+          - Pholcharee, T.
+          - Lei, R.
+          - Gopal, A.B.
+          - Shao, E.K.
+          - Talmage, L.
+          - Mok, C.K.P.
+          - Takahashi, S.
+          - Kraay, A.N.M.
+          - Wu, N.C.
+          - Martinez, P.P.
+        publisher: Epidemics, 53, 100859
+        releaseDate: 2025
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    Pre-print/Under Review:
+    - title: "Reimagining the serocatalytic model for infectious diseases: a case study of common coronaviruses"
+        authors:
+          - Larsen, S. L.*
+          - Yang, J.
+          - Lv, H.
+          - Huan, Y. W.
+          - Teo, Q.
+          - Pholcharee, T.
+          - Lei, R.
+          - Gopal, A.B.
+          - Shao, E.K.
+          - Talmage, L.
+          - Mok, C.K.P.
+          - Takahashi, S.
+          - Kraay, A.N.M.
+          - Wu, N.C.
+          - Martinez, P.P.
+        publisher: Epidemics, 53, 100859
+        releaseDate: 2025
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    Other Publications:
+    - title: "Reimagining the serocatalytic model for infectious diseases: a case study of common coronaviruses"
+        authors:
+          - Larsen, S. L.*
+          - Yang, J.
+          - Lv, H.
+          - Huan, Y. W.
+          - Teo, Q.
+          - Pholcharee, T.
+          - Lei, R.
+          - Gopal, A.B.
+          - Shao, E.K.
+          - Talmage, L.
+          - Mok, C.K.P.
+          - Takahashi, S.
+          - Kraay, A.N.M.
+          - Wu, N.C.
+          - Martinez, P.P.
+        publisher: Epidemics, 53, 100859
+        releaseDate: 2025
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    Grants:
+    - title: SHIELD Illinois (co-investigator)
+      date: 2023
+      amount: $100,000
+      summary: Disentangling the effect of racial, ethnic, and socioeconomic health disparities on respiratory disease transmission in Illinois before and during the COVID-19 pandemic
+
+
+    Awards:
+      - title: Isabel Norton Award
+        date: Spring 2024
+      - title: PEEC Travel Grant
+        date: Spring 2024
+      - title: Best Talk, Annual Microbiology Research Conference, Monticello, Illinois
+        date: October, 2023
+      - title: List of Teachers Ranked as Excellent
+        date: Spring 2021 - Fall 2022
+      - title: Barbara Sando Scholarship in Mathematics
+        date: Winter/Spring 2023
+      - title: Phi Beta Kappa
+        date: inducted Spring 2019
+      - title: Annual Dean’s List
+        awarder: University of Washington
+        date: 2016-17
+      - title: Annual Dean’s List
+        awarder: University of Washington
+        date: 2017-18
