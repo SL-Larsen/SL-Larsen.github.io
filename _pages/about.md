@@ -23,7 +23,7 @@ I am a postdoctoral scholar at the University of California, Berkeley, working w
 
 As a quantitative biologist with extensive training in ecology, mathematics, and social sciences, my work uses mathematical models of disease transmission to analyze the impact of sociodemographic heterogeneity on infectious disease dynamics, with implications for public health. My Ph.D. and postdoctoral work has focused on three major themes: (1) To what extent do social disparities in risk of transmission and severity drive infectious disease burden? (2) How does exposure history, which may be shaped by social factors, influence future risk? And (3) Which sociodemographic factors should be included in infectious disease models – and in what contexts? 
 
-*As a mentor, teacher, and scientist, I strive to follow the [axioms](http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf) proposed by Federico Ardila.*
+*As a mentor, teacher, and scientist, I strive to follow the [axioms](http://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf) proposed by Federico Ardila Mantilla.*
 
 1. Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
 2. Everyone can have joyful, meaningful, and empowering mathematical experiences.
