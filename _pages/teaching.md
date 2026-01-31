@@ -23,7 +23,7 @@ nav_order: 2
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2022: Teaching Assistant</h6>
     <ul>
-    <li>Led one Merit sections</li>
+    <li>Led one Merit section</li>
     <li>Wrote worksheets/mock exams and facilitated complex problem solving and collaboration</li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2022: Teaching Assistant</h6>
