@@ -33,12 +33,16 @@ nav_order: 3
         <h5 class="font-weight-bold">Education Department</h5>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0'94>Research Volunteer, October 2025 - present</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Research Volunteer, October 2025 - present</h6>
     <ul>
     <li>Support research and education activities for the United States' first 501(c)(3) nonprofit dedicated to supporting the LGBTQ+ Muslim community.</li>
     </ul>
   </div>
 </div>
+
+
+
+
 
 <h3 class="mt-4">University of Illinois, Urbana Champaign </h3>
 
