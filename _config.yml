@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sophie Larsen # the website title (if blank, full name will be used instead)
-first_name: Sophie
+title: Soren Larsen # the website title (if blank, full name will be used instead)
+first_name: Soren
 middle_name: #
 last_name: Larsen
 email: slarsen@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal portfolio site for Dr. Sophie Larsen.
+  Personal portfolio site for Dr. Soren L. Larsen.
 footer_text: >
   <br>This website was designed by my husband, Omar Ibrahim. You can see more of his work <a href="https://www.omaryibrahim.me/" target="_blank">here</a>.<br>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -248,7 +248,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Larsen]
-  first_name: [S., S.L., Sophie, Sophie L., Sophie Louise]
+  first_name: [S., S.L., Sophie, Sophie L., Sophie Louise, Soren Louis, Soren, Soren L.]
 
   style: apa
   locale: en
