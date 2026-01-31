@@ -248,7 +248,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Larsen]
-  first_name: [S., S.L., Sophie, Sophie L., Sophie Louise, Soren Louis, Soren, Soren L.]
+  first_name: [S.,S, S.L.,SL, S L, Sophie, Sophie L., Sophie L, Sophie Louise, Soren Louis, Soren, Soren L., Soren L]
 
   style: apa
   locale: en
