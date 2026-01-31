@@ -109,8 +109,7 @@ nav_order: 2
     </div>
     <ul>
     <li>Trained in research-based pedagogical methods (Spring 2018)</li>
-    <li>Facilitated problem-solving and study-skill development in a weekly discussion workshop for General Chemistry (CHEM 142), under the supervision of a graduate teaching assistant (Fall 2018)</li>
-    <li>Facilitated an additional workshop with a graduate student in Fall 2019</li>
+    <li>Facilitated problem-solving and study-skill development in a weekly discussion workshop for General Chemistry (CHEM 142), under the supervision of a graduate teaching assistant (Fall 2018/Fall 2019)</li>
     <li>Peer-mentors are part of the UW STEM-Dawgs program, whose purpose is to foster a sense of community within large undergraduate lecture courses, and address disparities in performance for women, underrepresented groups, and first-generation college students.</li>
     </ul>
   </div>
