@@ -24,22 +24,7 @@ nav_order: 3
   </div>
 </div>
 
- <h3 class="mt-4">University of California, Berkeley</h3>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Campus Advisory Committee on the LGBTQ+ Communities at Cal</h5>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Postdoctoral Appointee, Dec. 2025 - present</h6>
-    <ul>
-    <li>Member of the Health and Wellness subcommittee, helping to develop policy recommendations in response to student and employee needs.</li>
-    <li>This is a standing committee for the UC Berkeley senior administration, advising on concerns of lesbian, gay, bisexual, transgender, intersex, and queer UC Berkeley employees and students. </li>
-    </ul>
-  </div>
-</div>
+ <h3 class="mt-4">The Ayah Project</h3>
 
 <div class="card mt-3">
   <div class="p-3">
