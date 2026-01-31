@@ -5,8 +5,14 @@
 "medRxiv":
   url: https://www.medrxiv.org/
 
-"Nat. Commun.":
+"NatComm":
   url: https://www.nature.com/ncomms/
 
-"RSPB":
+"ProcB":
   url: https://royalsocietypublishing.org/journal/rspb
+
+"SciReports":
+  url: https://www.nature.com/srep/
+
+"Epidemics:
+  url: https://www.sciencedirect.com/journal/epidemics
