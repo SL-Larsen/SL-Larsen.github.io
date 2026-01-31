@@ -1,10 +1,11 @@
-
+---
 layout: page
 permalink: /service/
 title: Service
-description: Service to institution and community
+description: Service to institutions and community
 nav: true
 nav_order: 3
+---
 
 <h3 class="mt-4">University of California, Berkeley</h3>
 
@@ -79,6 +80,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Accommodation Working Group</h5>
       </div>
     </div>
+      <h6 class="font-italic mt-2 mt-sm-0">Member, August 2022 - October 2022</h6>
 <ul>
     <li>Contributed to early stages of a working group formed by the Department of Mathematics to develop recommendations of best practices for accommodating disabled students in the graduate program. </li>
     </ul>
@@ -98,7 +100,3 @@ nav_order: 3
     </ul>
   </div>
 </div>
-
-
-
-}
