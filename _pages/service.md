@@ -24,7 +24,7 @@ nav_order: 3
   </div>
 </div>
 
- <h3 class="mt-4">The Ayah Project</h3>
+<h3 class="mt-4">The Ayah Project</h3>
 
 <div class="card mt-3">
   <div class="p-3">
