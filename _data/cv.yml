@@ -90,45 +90,45 @@ cv:
 
     Pre-print/Under Review:
     - title: "Reimagining the serocatalytic model for infectious diseases: a case study of common coronaviruses"
-        authors:
-          - Larsen, S. L.*
-          - Yang, J.
-          - Lv, H.
-          - Huan, Y. W.
-          - Teo, Q.
-          - Pholcharee, T.
-          - Lei, R.
-          - Gopal, A.B.
-          - Shao, E.K.
-          - Talmage, L.
-          - Mok, C.K.P.
-          - Takahashi, S.
-          - Kraay, A.N.M.
-          - Wu, N.C.
-          - Martinez, P.P.
-        publisher: Epidemics, 53, 100859
-        releaseDate: 2025
+      authors:
+        - Larsen, S. L.*
+        - Yang, J.
+        - Lv, H.
+        - Huan, Y. W.
+        - Teo, Q.
+        - Pholcharee, T.
+        - Lei, R.
+        - Gopal, A.B.
+        - Shao, E.K.
+        - Talmage, L.
+        - Mok, C.K.P.
+        - Takahashi, S.
+        - Kraay, A.N.M.
+        - Wu, N.C.
+        - Martinez, P.P.
+      publisher: Epidemics, 53, 100859
+      releaseDate: 2025
 
     Other Publications:
     - title: "Reimagining the serocatalytic model for infectious diseases: a case study of common coronaviruses"
-        authors:
-          - Larsen, S. L.*
-          - Yang, J.
-          - Lv, H.
-          - Huan, Y. W.
-          - Teo, Q.
-          - Pholcharee, T.
-          - Lei, R.
-          - Gopal, A.B.
-          - Shao, E.K.
-          - Talmage, L.
-          - Mok, C.K.P.
-          - Takahashi, S.
-          - Kraay, A.N.M.
-          - Wu, N.C.
-          - Martinez, P.P.
-        publisher: Epidemics, 53, 100859
-        releaseDate: 2025
+      authors:
+        - Larsen, S. L.*
+        - Yang, J.
+        - Lv, H.
+        - Huan, Y. W.
+        - Teo, Q.
+        - Pholcharee, T.
+        - Lei, R.
+        - Gopal, A.B.
+        - Shao, E.K.
+        - Talmage, L.
+        - Mok, C.K.P.
+        - Takahashi, S.
+        - Kraay, A.N.M.
+        - Wu, N.C.
+        - Martinez, P.P.
+      publisher: Epidemics, 53, 100859
+      releaseDate: 2025
 
     Grants:
     - title: SHIELD Illinois (co-investigator)
