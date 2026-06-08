@@ -12,13 +12,13 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-sass-converter', '~> 2.2'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'mini_racer'
+    gem 'sassc', '~> 2.4'  # ← ADD THIS LINE HERE
     gem 'unicode_utils'
     gem 'webrick'
 end
